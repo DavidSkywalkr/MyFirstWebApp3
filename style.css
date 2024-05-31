@@ -1,0 +1,14 @@
+.b1{
+    color:white;
+    background-color: blue;
+    width: 360px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+}
+
+.b2{
+    color: blue;
+}
